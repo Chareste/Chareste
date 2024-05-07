@@ -1,4 +1,4 @@
-### Hi there 👋
+### :3
 <!--
 ![Chareste's github stats](https://github-readme-stats.vercel.app/api?username=Chareste&hide=["issues"]&show_icons=true)
 
