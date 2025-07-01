@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! Here you can find some small projects I spent my free time on, just for fun.
 
-- 🔭 **I’m currently working on:** *my job :)*
-- 🌱 **I’m currently learning:** *it's a secret! (plus lots of C++ with my job)*
+- 🔭 **I’m currently working on:** *secret :)*
+- 🌱 **I’m currently learning:** *C++*
 - 👀 **My interests:** *old languages, scripting, creating the most apparently convoluted systems to efficiently reach my goals*
 - 👻 **One fun fact:** *one time I modded a modem, but in the process I deleted the whole firmware and I had to reflash it manually without any sort of guide... my old roommates still think it was due to a power outage :)*
 
